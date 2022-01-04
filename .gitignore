@@ -1,0 +1,17 @@
+# custom output dir
+classes
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore Eclipse IDE Artifacts
+.project
+.classpath
+.settings
+bin
+
+# Apple Specific Custom Attributes
+.DS_Store
